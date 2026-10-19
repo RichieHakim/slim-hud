@@ -1,0 +1,12 @@
+{
+  "name": "slim-hud",
+  "version": "0.1.0",
+  "description": "A minimal heads-up display at the bottom of Claude Code: a context bar, the model and effort, and your usage limits.",
+  "author": {
+    "name": "RichieHakim",
+    "url": "https://github.com/RichieHakim"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/RichieHakim/slim-hud",
+  "types": "./types/index.d.ts"
+}

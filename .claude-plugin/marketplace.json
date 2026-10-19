@@ -1,0 +1,12 @@
+{
+  "name": "slim-hud",
+  "owner": {
+    "name": "RichieHakim"
+  },
+  "plugins": [
+    {
+      "name": "slim-hud",
+      "source": "./"
+    }
+  ]
+}
